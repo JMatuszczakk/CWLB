@@ -52,10 +52,6 @@ pytest playwright_tests.py
 - Dodawanie i pobieranie danych
 - Testowanie podstawowych przepływów
 
-## Rozwiązywanie Problemów
-- Upewnij się, że serwer Flask jest uruchomiony przed testami E2E
-- Sprawdź ustawienia połączenia z bazą danych
-- Zweryfikuj, czy zmienne środowiskowe są poprawnie ustawione
 
 ## Dodatkowe Informacje
 - Testy mają na celu sprawdzenie poprawności działania API schroniska
