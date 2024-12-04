@@ -61,3 +61,5 @@ pytest playwright_tests.py
 - Testy mają na celu sprawdzenie poprawności działania API schroniska
 - Każdy test jest izolowany i nie wpływa na dane produkcyjne
 - W razie problemów sprawdź logi i konfigurację środowiska
+
+![Screenshot](https://github.com/JMatuszczakk/CWLB/blob/main/Screenshot_2024-12-04_at_00.00.37.png)
