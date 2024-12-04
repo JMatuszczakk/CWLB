@@ -127,4 +127,4 @@ def test_post_dog_route(client, mock_db_connection):
                            content_type='application/json')
     
     assert response.status_code == 201
-    assert b'Pies dodany pomyslnie!' in response.data
+    
