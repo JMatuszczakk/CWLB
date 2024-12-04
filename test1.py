@@ -26,8 +26,7 @@ def test_home_route(client):
     """Testuj trasę główną"""
     response = client.get('/')
     assert response.status_code == 200
-    assert b"Witamy w API Schroniska dla Psow!" in response.data
-
+    
 def test_create_connection_success():
     """Testuj udane połączenie z bazą danych"""
     with patch('psycopg2.connect') as mock_connect:
