@@ -1,7 +1,7 @@
 import pytest
 import json
 from flask import Flask
-from app import app, create_connection, fetch_all_dogs, insert_dog, delete_dog
+from server import app, create_connection, fetch_all_dogs, insert_dog, delete_dog
 import psycopg2
 from unittest.mock import MagicMock, patch
 
