@@ -59,3 +59,4 @@ pytest playwright_tests.py
 - W razie problemów sprawdź logi i konfigurację środowiska
 
 ![Screenshot](https://github.com/JMatuszczakk/CWLB/blob/main/Screenshot_2024-12-04_at_00.00.37.png)
+![Screenshot](https://github.com/JMatuszczakk/CWLB/blob/main/Screenshot_2024-12-04_at_09.34.28.png)
