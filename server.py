@@ -1,8 +1,10 @@
 from flask import Flask, jsonify, request, g
+from flask_cors import CORS
 import psycopg2
 from psycopg2 import OperationalError
 
 app = Flask(__name__)
+CORS(app)
 
 import os
 from dotenv import load_dotenv
